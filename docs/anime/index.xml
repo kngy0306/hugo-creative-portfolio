@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animes on Creative portfolio</title>
-    <link>https://example.org/anime/</link>
+    <link>https://kngy0306.github.io/hugo-creative-portfolio/anime/</link>
     <description>Recent content in Animes on Creative portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
-    <lastBuildDate>Sun, 27 Dec 2020 23:23:38 +0900</lastBuildDate><atom:link href="https://example.org/anime/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 27 Dec 2020 23:23:38 +0900</lastBuildDate><atom:link href="https://kngy0306.github.io/hugo-creative-portfolio/anime/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>最初のアニメ記事</title>
-      <link>https://example.org/anime/first/</link>
+      <link>https://kngy0306.github.io/hugo-creative-portfolio/anime/first/</link>
       <pubDate>Sun, 27 Dec 2020 23:23:38 +0900</pubDate>
       
-      <guid>https://example.org/anime/first/</guid>
+      <guid>https://kngy0306.github.io/hugo-creative-portfolio/anime/first/</guid>
       <description>記事タイトル 記事内容</description>
     </item>
     
