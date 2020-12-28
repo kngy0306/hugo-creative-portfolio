@@ -48,6 +48,7 @@ canonifyurls = true
   url = "portfolio/"
   home = true
 
+
   [[params.navlinks]]
   name = "About"
   url = "about/"
@@ -63,6 +64,7 @@ canonifyurls = true
   [[params.navlinks]]
   name = "サッカー"
   url = "soccer/"
+
 
   [params.social]
   twitter       = "full profile url in twitter"
