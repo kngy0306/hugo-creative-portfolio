@@ -48,13 +48,12 @@ canonifyurls = true
   url = "portfolio/"
   home = true
 
-
   [[params.navlinks]]
   name = "About"
   url = "about/"
 
   [[params.navlinks]]
-  name = "Anime"
+  name = "アニメ"
   url = "anime/"
 
   [[params.navlinks]]
