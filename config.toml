@@ -16,8 +16,7 @@ canonifyurls = true
   description = "Describe your website"
   copyright = "&copy;2016 Your name or company"
   sidebarAbout = [
-    "適当",
-    "プロフィール"
+    "アイルランドに留学中の大学生です。 留学中の体験を気ままに投稿します。"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
